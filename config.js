@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: ' mừng ngày sinh nhật bé iuu ヾ(⌐■_■)ノ♪',
+    introTitle: 'mừng ngày sn bé iu <br>ヾ(⌐■_■)ノ♪',
     introDesc: 'sit nicely để ba lun tặng quà cho con nèo',
     btnIntro: 'daddy daddy cool',
     title: 'quà của ai đây? quà của ai nhờ?',
